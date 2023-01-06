@@ -12,5 +12,3 @@
 > Node.java contains the nodes used to create the tree.
 
 > The ordering methods presented are preorder, postorder, and Inorder.
-
-> Enjoy :)
